@@ -57,9 +57,9 @@ cd weather-dashboard
 pip install -r requirements.txt
 
 ### 🔑 API Setup
--Sign up at OpenWeatherMap
--Get your free API key
--Replace "YOUR_API_KEY" in the code with your actual key:
+- Sign up at OpenWeatherMap
+- Get your free API key
+- Replace "YOUR_API_KEY" in the code with your actual key:
 -- api_key = "YOUR_API_KEY"
 
 ### 🚀 Run the Application
