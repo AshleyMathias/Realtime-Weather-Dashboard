@@ -63,7 +63,7 @@ pip install -r requirements.txt
 -- api_key = "YOUR_API_KEY"
 
 ### 🚀 Run the Application
-python app.py
+main.py
 
 ### 💡 Sample Output
 City: Indore
