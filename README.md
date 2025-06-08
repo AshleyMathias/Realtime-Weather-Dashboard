@@ -13,8 +13,8 @@ A **Python Tkinter-based GUI** application that fetches and displays real-time w
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshot1.png" alt="Main Weather View" width="45%" style="margin-right: 10px;"/>
-  <img src="screenshot2.png" alt="Weather with Icon" width="45%"/>
+  <img src="Screenshot1.png" alt="Main Weather View" width="45%" style="margin-right: 10px;"/>
+  <img src="Screenshot2.png" alt="Weather with Icon" width="45%"/>
 </div>
 
 > 🖼️ *Real-time weather with clean layout and condition icons*
